@@ -1,0 +1,8 @@
+bs4
+pandas
+attrs
+requests
+lxml
+nflgame-redux
+pyarrow
+tqdm
