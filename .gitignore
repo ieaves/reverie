@@ -114,3 +114,6 @@ venv.bak/
 !/docsrc/build/
 /playground/
 /docs/.buildinfo
+
+# data folder
+data/*
